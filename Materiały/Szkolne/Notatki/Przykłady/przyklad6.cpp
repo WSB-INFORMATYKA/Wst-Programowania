@@ -1,5 +1,5 @@
 // Author: Krzysztof Chowaniec
-// Date: 05.12.2021
+// Date: 06.12.2021
 
 #include <iostream> //Biblioteka podstawowa
 
