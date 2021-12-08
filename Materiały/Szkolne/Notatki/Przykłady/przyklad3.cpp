@@ -37,4 +37,5 @@ int main()
 	std::cout << "3 potega liczby " << zmienna5 << " to " << pow(zmienna5, 3) << '\n';
 
 	//Radze nie uzywac tych funkcji w zadaniach domowych !!
+	//http://www.algorytm.edu.pl/biblioteki/cmath.html <-- Link do opisu wszystkich funkcji
 }
